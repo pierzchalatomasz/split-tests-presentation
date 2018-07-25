@@ -1,0 +1,12 @@
+.sample-component {
+  color: #fff;
+  padding: 15px;
+}
+
+.sample-component.version-a {
+  background: orange;
+}
+
+.sample-component.version-b {
+  background: blue;
+}
